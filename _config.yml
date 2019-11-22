@@ -8,7 +8,7 @@ subtitle: ''
 description: '我们一路奋斗不是为了改变世界，而是不让世界改变我们。'
 keywords:
 author: hongwen shen
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -90,7 +90,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next-reloaded
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
