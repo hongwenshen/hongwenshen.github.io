@@ -1,5 +1,5 @@
 ---
-title: normallife
+title: 周一的杂谈
 date: 2019-11-25 13:10:10
 tags: [杂谈]
 categories: 2019年11月
